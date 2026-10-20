@@ -1,0 +1,3 @@
+# Materi 3 - Analisis Spasial Fasilitas Umum
+
+Studi kasus ini membahas analisis spasial untuk menentukan wilayah prioritas pembangunan fasilitas umum berdasarkan jumlah penduduk dan jarak ke fasilitas terdekat. Data simulasi enam wilayah dan tiga fasilitas dianalisis menggunakan rumus Haversine untuk menghitung jarak geografis. Wilayah dengan jumlah penduduk minimal 15.000 orang dan jarak ke fasilitas terdekat lebih dari 1 km ditetapkan sebagai prioritas. Hasil analisis ditampilkan dalam tabel dan visualisasi koordinat. Library yang digunakan adalah Pandas untuk pengolahan data, NumPy untuk perhitungan numerik, dan Matplotlib untuk visualisasi. Data yang digunakan merupakan simulasi sehingga hasilnya perlu divalidasi dengan kondisi lapangan sebenarnya.

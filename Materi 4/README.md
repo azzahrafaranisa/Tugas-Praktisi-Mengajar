@@ -1,0 +1,3 @@
+# Materi 4 - Prediksi Kelulusan Mahasiswa
+
+Studi kasus ini membahas prediksi potensi kelulusan mahasiswa tepat waktu menggunakan metode Supervised Learning dengan algoritma Decision Tree Classification. Data simulasi sebanyak 30 mahasiswa digunakan dengan fitur nilai rata-rata, persentase kehadiran, dan jumlah mata kuliah yang telah lulus. Data dibagi menjadi training dan testing untuk melatih serta mengevaluasi model menggunakan metrik akurasi dan classification report. Model juga digunakan untuk memprediksi potensi kelulusan mahasiswa baru. Library yang digunakan adalah Pandas untuk pengolahan data dan Scikit-learn untuk pembagian data, pelatihan model, prediksi, dan evaluasi. Hasil hanya digunakan untuk pembelajaran dan bukan keputusan akademik nyata.

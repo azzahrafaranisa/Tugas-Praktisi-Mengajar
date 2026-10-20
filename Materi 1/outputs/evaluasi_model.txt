@@ -1,0 +1,15 @@
+EVALUASI MODEL RANDOM FOREST
+
+Accuracy : 0.7583
+Precision: 0.4000
+Recall   : 0.5217
+F1-score : 0.4528
+
+                 precision    recall  f1-score   support
+
+Tidak Terlambat       0.88      0.81      0.84        97
+      Terlambat       0.40      0.52      0.45        23
+
+       accuracy                           0.76       120
+      macro avg       0.64      0.67      0.65       120
+   weighted avg       0.79      0.76      0.77       120
